@@ -35,21 +35,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdalauddin45" alt="mdalauddin45" /></a> </p>
 
 
-<div align="left">
-<a href="https://app.daily.dev/mir"><img align="right" src="/mdalauddin45.svg" width="200" alt=" Dev Card"/></a>
-</div>
-- 🌱 I’m currently learning **Django**
-- 👯 I’m currently looking - **To collaborate on open source projects.** 
-- 🤔 I’m trying - **To help people learn web development.** 
-- ⚡ Fun fact - **I love to make complex origami and I can speak 5 languages.**
-
-- 👨‍💻 All of my projects are available at [https://alauddin45.web.app](https://alauddin45.web.app)
-
-- 📫 How to reach me **mdalauddin8948@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zYmz80jpaKnQpuI-ZOs0nh4O36amud5d/view?usp=drive_link](https://drive.google.com/file/d/1zYmz80jpaKnQpuI-ZOs0nh4O36amud5d/view?usp=drive_link)
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/mdalauddin45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mdalauddin45" height="30" width="40" /></a>
@@ -82,6 +67,10 @@
 ### 👯 I’m looking - To collaborate on open source projects. 
 ### 🤔 I’m trying - To help people learn web development. 
 ### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
+### 👨‍💻 All of my projects are available at [Md Ala Uddin](https://alauddin45.web.app)
 
+### 📫 How to reach me **mdalauddin8948@gmail.com**
+
+### 📄 Know about my experiences [Alauddin's Resume](https://drive.google.com/file/d/1zYmz80jpaKnQpuI-ZOs0nh4O36amud5d/view?usp=drive_link)
 
 <br />
