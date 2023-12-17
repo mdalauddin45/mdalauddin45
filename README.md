@@ -69,7 +69,7 @@
 ### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
 ### 👨‍💻 All of my projects are available at [Md Ala Uddin](https://alauddin45.web.app)
 
-### 📫 How to reach me **mdalauddin8948@gmail.com**
+### 📫 How to reach me [click](mdalauddin8948@gmail.com)
 
 ### 📄 Know about my experiences [Alauddin's Resume](https://drive.google.com/file/d/1zYmz80jpaKnQpuI-ZOs0nh4O36amud5d/view?usp=drive_link)
 
