@@ -34,6 +34,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdalauddin45" alt="mdalauddin45" /></a> </p>
 
+
 <div align="left">
 <a href="https://app.daily.dev/mir"><img align="right" src="/mdalauddin45.svg" width="200" alt=" Dev Card"/></a>
 </div>
@@ -48,9 +49,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1zYmz80jpaKnQpuI-ZOs0nh4O36amud5d/view?usp=drive_link](https://drive.google.com/file/d/1zYmz80jpaKnQpuI-ZOs0nh4O36amud5d/view?usp=drive_link)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -72,3 +70,18 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdalauddin45&show_icons=true&locale=en&layout=compact" alt="mdalauddin45" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdalauddin45&show_icons=true&locale=en" alt="mdalauddin45" /></p>
+
+## :eyes: Current overview
+
+<div align="left">
+<a href="https://app.daily.dev/alauddin45"><img align="right" src="/mdalauddin45.svg" width="200" alt="Alauddin's Dev Card"/></a>
+</div>
+
+
+### 🌱 I’m exploring - Django for web. 
+### 👯 I’m looking - To collaborate on open source projects. 
+### 🤔 I’m trying - To help people learn web development. 
+### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
+
+
+<br />
