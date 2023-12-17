@@ -34,6 +34,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdalauddin45" alt="mdalauddin45" /></a> </p>
 
+<div align="left">
+<a href="https://app.daily.dev/mir"><img align="right" src="/mdalauddin45.svg" width="200" alt=" Dev Card"/></a>
+</div>
 - 🌱 I’m currently learning **Django**
 - 👯 I’m currently looking - **To collaborate on open source projects.** 
 - 🤔 I’m trying - **To help people learn web development.** 
