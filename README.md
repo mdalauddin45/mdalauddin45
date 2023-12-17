@@ -34,9 +34,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdalauddin45" alt="mdalauddin45" /></a> </p>
 
-- 🔭 I’m currently working on **Django Project**
-
 - 🌱 I’m currently learning **Django**
+- 👯 I’m currently looking - **To collaborate on open source projects.** 
+- 🤔 I’m trying - **To help people learn web development.** 
+- ⚡ Fun fact - **I love to make complex origami and I can speak 5 languages.**
 
 - 👨‍💻 All of my projects are available at [https://alauddin45.web.app](https://alauddin45.web.app)
 
