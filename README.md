@@ -22,7 +22,7 @@
    </a>
 </div> -->
 <h1 align="center">Hi 👋, I'm Alauddin</h1>
-<h3 align="center">A passionate frontend developer from Bangaldesh</h3>
+<h3 align="center">A passionate Full-stack Developer from 🇧🇩</h3>
 
 <div align="center">
 
