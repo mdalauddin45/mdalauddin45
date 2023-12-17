@@ -55,7 +55,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdalauddin45&show_icons=true&locale=en&layout=compact" alt="mdalauddin45" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdalauddin45&show_icons=true&locale=en" alt="mdalauddin45" /></p>
+## :chart_with_upwards_trend: Current Stats
 
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mir-hussain&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
 ## :eyes: Current overview
 
 <div align="left">
