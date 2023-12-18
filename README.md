@@ -26,7 +26,7 @@
 
 <div align="center">
 
-![Alauddin](gitartwork.svg)
+![ALAUDDIN](gitartwork.svg)
 
 </div>
 
