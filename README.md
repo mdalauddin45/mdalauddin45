@@ -77,5 +77,4 @@
 ### 📫 How to reach me [click](mdalauddin8948@gmail.com)
 
 ### 📄 Know about my experiences [Alauddin's Resume](https://drive.google.com/file/d/1zYmz80jpaKnQpuI-ZOs0nh4O36amud5d/view?usp=drive_link)
-
 <br />
